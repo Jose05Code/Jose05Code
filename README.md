@@ -8,7 +8,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose05Code&show_icons=true&theme=dark#gh-dark-mode-only"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jose05Code&show_icons=true&theme=dark#gh-light-mode-only"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose05Code&theme=tokyonight&hide_border=false"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose05Code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
