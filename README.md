@@ -1,3 +1,5 @@
+[![Jose05Code](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
 # 💫 About Me:
 🌟 Greetings! I'm Jose, an enthusiast in backend programming, driven by a passion for crafting robust digital architectures. Here's a concise overview of my profile:<br><br>💻 Proficient in backend development, adept at navigating its complexities.<br>🎯 Committed to mastering server-side technologies and database management.<br>🌱 Actively engaged in professional development, currently enhancing skills with Django.<br>⚙️ Dedicated to architecting scalable and efficient systems to fuel the digital landscape.<br>🧠 Adept at algorithm optimization and effective problem-solving.<br>🧹 Advocate for clean code and adherence to software engineering best practices.<br>📈 Committed to lifelong learning, embracing growth in the dynamic realm of backend development.
 
