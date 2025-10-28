@@ -30,15 +30,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose05Code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jose05Code&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-### 🌟 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Jose05Code&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-</div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Jose05Code&icon=0&color=0)](https://visitcount.itsvg.in)
