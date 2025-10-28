@@ -1,11 +1,16 @@
 # 👋 Hello, I'm Jose!
 
+<p align="center">
+  🎮 Gamer at heart • ⚛️ Physics lover • 🧠 Philosophy enthusiast • ☕ Fueled by coffee
+</p>
+
 ## 💡 About Me
-- 🎓 Currently studying **Cybersecurity**, with a focus on system protection and vulnerability prevention.
-- 💻 Passionate about **C++** and **Python**, which form the foundation of my projects and security practices.
-- 🔐 Interested in **digital forensics**, **penetration testing**, and **secure architecture design**.
-- 🌱 Continuously learning and exploring new technologies and methodologies in the cybersecurity field.
-- 🏆 Enjoy participating in **CTF** (Capture The Flag) challenges to test and refine my ethical hacking skills.
+- 🎓 **Computer Science student at MDC** passionate about building secure, scalable, and creative solutions.  
+- 🧠 Deeply interested in **Cybersecurity** — from ethical hacking to system defense and secure software design.  
+- ⚛️ Exploring the world of **Quantum Computing** and its potential impact on future security.  
+- 💡 I enjoy participating in **hackathons**, collaborating with teams, and turning ideas into working prototypes.  
+- 🌱 Constantly learning and experimenting with new technologies to expand my knowledge and skills.  
+
 
 ## ⚙️ Tech Stack
 <div>
@@ -33,4 +38,13 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jose05Code&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Social Links -->
+<p>
+  <a href="https://www.linkedin.com/in/josefradegala/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Jose05Code">
+    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" />
+  </a>
+</p> 
