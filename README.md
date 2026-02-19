@@ -1,50 +1,56 @@
-# 👋 Hello, I'm Jose!
 
-<p align="center">
-  🎮 Gamer at heart • ⚛️ Physics lover • 🧠 Philosophy enthusiast • ☕ Fueled by coffee
-</p>
+## 🔐 Cybersecurity · Systems · Backend
 
-## 💡 About Me
-- 🎓 **Computer Science student at MDC** passionate about building secure, scalable, and creative solutions.  
-- 🧠 Deeply interested in **Cybersecurity** — from ethical hacking to system defense and secure software design.  
-- ⚛️ Exploring the world of **Quantum Computing** and its potential impact on future security.  
-- 💡 I enjoy participating in **hackathons**, collaborating with teams, and turning ideas into working prototypes.  
-- 🌱 Constantly learning and experimenting with new technologies to expand my knowledge and skills.  
+> Software built with **security, correctness, and long-term maintainability** in mind.
 
+I focus on understanding how systems behave under real constraints — not just how to make them work, but how to make them **robust, safe, and understandable**.
 
-## ⚙️ Tech Stack
-<div>
-  <!-- C++ -->
-  <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
-  <!-- Java -->
-  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
-  <!-- Python -->
-  <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python">
-  <!-- Ubuntu -->
-  <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt = "Ubuntu">
-  <!-- Docker -->
-  <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt = "Docker">
-  <!-- MongoDB -->
-  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
-</div>
-
-> In cybersecurity, I use both **C++** and **Python** to develop and automate security analysis tools, as well as to create testing environments and ethical hacking scripts.
-
-## 🏆 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jose05Code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Jose's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose05Code&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
+Most of my work lives close to the system: backend logic, Linux environments, automation, and infrastructure.
 
 ---
 
-<!-- Social Links -->
-<p>
-  <a href="https://www.linkedin.com/in/josefradegala/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Jose05Code">
-    <img src="https://skillicons.dev/icons?i=github" width="30" alt="GitHub" />
-  </a>
-</p> 
+### 🧠 Principles
+
+- Security is a **design requirement**, not a patch  
+- Clear structure scales better than clever code  
+- Understanding systems matters more than abstractions  
+- Tooling should reduce complexity, not add to it  
+
+---
+
+### 🔍 Focus Areas
+
+**Cybersecurity** — defensive software design, system hardening  
+**Systems & Infrastructure** — Linux environments, automation, containerization, cloud deployment  
+**Backend Development** — APIs, services, data-driven applications  
+**Cryptography & Emerging Topics** — blockchain fundamentals, quantum security implications  
+
+---
+
+### 🧰 Core Technologies
+
+**Languages:** Java · Python · C# · C++  
+**Frameworks:** .NET · Django  
+**Systems:** Linux · Bash · Docker  
+**Testing:** Pytest  
+**Data & Cloud:** MySQL · AWS (EC2)  
+**Documentation & Design:** Markdown · Figma  
+
+---
+
+### 📊 Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose05Code&theme=github_dark" />
+</p>
+
+---
+
+### 🔗 Links
+
+- GitHub: https://github.com/Jose05Code  
+- LinkedIn: https://www.linkedin.com/in/josefradegala  
+
+---
+
+*Minimal by choice. Intentional by design.*
